@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tonic-19
 - 👀 I’m interested in learning fullstack dev
 - 🌱 I’m currently learning python
-- 😄 Pronouns: I identify as a horde
+- 😄 Pronouns: I identify as a blood elf
 - ⚡ Fun fact: Lok'tar Ogar !
 
 <!---
